@@ -8,6 +8,6 @@ Efficient encoding and decoding utilizing binary trees and priority queues.
 Simple command-line interface for compressing and decompressing files.
 
 # Technologies Used
-Programming Language: Java
+Programming Language: Java '\n'
 Core Algorithm: Huffman Encoding
 Data Structures: Binary Trees, Priority Queues
